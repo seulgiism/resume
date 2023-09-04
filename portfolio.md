@@ -1,5 +1,3 @@
-# Seul-gi Baggelaar's Resume
-
 ## Skills
 * Windows Troubleshooting
 * Linux Server Management
