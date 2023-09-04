@@ -1,4 +1,4 @@
-# Seul-gi Baggelaar
+# Seul-gi Baggelaar's Resume
 
 ## Skills
 * Windows Troubleshooting
@@ -11,10 +11,12 @@
 * Video/Image Editing, Game Modding, Game Server Hosting
 
 ## Experience
-* Previous Experience in Modelling: Developed skills in creative thinking, flexibility, and stress management
+* Previous Experience in fashion modelling and video editing: Developed skills in creative thinking, flexibility, and stress management
 
 ## Hobbies
-* Video/Image Editing, Game Modding, Game Server Hosting
+* Video/Image Editing, Game Modding, Game Server Hosting, language learning, painting, reading books
 
 ## Contact
-[Insert your contact details here]
+Seul-gi Baggelaar
+E-mail: seulgi.baggelaar@protonmail.com
+Mobile: +31620163924
