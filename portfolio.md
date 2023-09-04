@@ -17,6 +17,6 @@
 * Video/Image Editing, Game Modding, Game Server Hosting, language learning, painting, reading books
 
 ## Contact
-Seul-gi Baggelaar
-* E-mail: seulgi.baggelaar@protonmail.com
-* Mobile: +31620163924
+Seul-gi Baggelaar\
+E-mail: seulgi.baggelaar@protonmail.com\
+Mobile: +31620163924\
