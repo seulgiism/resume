@@ -18,4 +18,3 @@
 Seul-gi Baggelaar\
 E-mail: seulgi.baggelaar@protonmail.com\
 Mobile: +31620163924\
-
