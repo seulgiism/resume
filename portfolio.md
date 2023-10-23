@@ -25,7 +25,7 @@
 ## Experience
 # Game Server Admin @ i3d.net
 # Source Server System Admin
-* In-house High Fashion Model 
+# In-house High Fashion Model
 
 ## Courses
 # Complete Terraform Course - Beginner to Advanced
