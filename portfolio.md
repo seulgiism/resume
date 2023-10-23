@@ -56,8 +56,8 @@ Mobile: +31620163924\
 
 ## Projects
 
-My Website: https://seulgi.zip\
-JellyFin: https://seulgi.zip/jellyfin\
-FreshRSS: https://koreanmind.com\
-This Portfolio: https://portfolio.seulgi.zip\
-AI Video Upscaling: https://www.youtube.com/@smonster\
+My Website: <https://seulgi.zip>\
+JellyFin: <https://seulgi.zip/jellyfin>\
+FreshRSS: <https://koreanmind.com>\
+This Portfolio: <https://portfolio.seulgi.zip>\
+AI Video Upscaling: <https://www.youtube.com/@smonster>\
