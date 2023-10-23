@@ -1,34 +1,34 @@
 ## Skills
-# RHEL (8,9)
-# Windows Troubleshooting
-# TerraForm
-# Docker and Containerization
-# Nginx Web Server Management
-# AWS
-# Shell Scripting
-# (Game) Server Hosting
-# Video, Image and Photo Editing
+* RHEL (8,9)
+* Windows Troubleshooting
+* TerraForm
+* Docker and Containerization
+* Nginx Web Server Management
+* AWS
+* Shell Scripting
+* (Game) Server Hosting
+* Video, Image and Photo Editing
 
 ## Currently Learning
-# Preparing for RHCSA Exam (EX2000)
-# Azure
-# Ansible
-# Python
+* Preparing for RHCSA Exam (EX2000)
+* Azure
+* Ansible
+* Python
 
 ## Languages
-# Dutch - native
-# English - professional proficiency level
-# Korean - fluent 
-# Japanese - learning
-# French - learning
+* Dutch - native
+* English - professional proficiency level
+* Korean - fluent 
+* Japanese - learning
+* French - learning
 
 ## Experience
-# Game Server Admin @ i3d.net
-# Source Server System Admin
-# In-house High Fashion Model
+* Game Server Admin @ i3d.net
+* Source Server System Admin
+* In-house High Fashion Model
 
 ## Courses
-# Complete Terraform Course - Beginner to Advanced
+* Complete Terraform Course - Beginner to Advanced
 
 ## Work Ethic
 I want to connect with mentors, peers and professionals who share my passion on a journey of growth and development in DevOps.\
@@ -41,12 +41,12 @@ I possess a growth mindset and thrive in collaborative environments. I value the
 With my ability to quickly learn new information, coupled with my dedication to excellence and problem solving, makes me an ideal candidate for entry-level roles in System Administration.\
 
 ## Hobbies
-# (Game) Server Hosting
-# Game Modding
-# Language Learning
-# Reading Fiction
-# Writing a Cookbook
-# Nutrition Science
+* (Game) Server Hosting
+* Game Modding
+* Language Learning
+* Reading Fiction
+* Writing a Cookbook
+* Nutrition Science
 
 ## Contact
 Seul-gi Baggelaar\
