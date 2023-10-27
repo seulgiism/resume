@@ -63,7 +63,7 @@ Mobile: +31620163924\
 My Website: <https://seulgi.zip>\
 JellyFin: <https://seulgi.zip/jellyfin>\
 FreshRSS: <https://koreanmind.com>\
-This Portfolio: <https://portfolio.seulgi.zip>\
+This Resume: <https://resume.seulgi.zip>\
 AI Video Upscaling: <https://www.youtube.com/@smonster>\
 
 </div>
