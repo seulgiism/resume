@@ -1,3 +1,7 @@
+<div class="container">
+
+<div class="content" markdown="1">
+
 ## Skills
 * RHEL (8,9)
 * Windows Troubleshooting
@@ -61,3 +65,12 @@ JellyFin: <https://seulgi.zip/jellyfin>\
 FreshRSS: <https://koreanmind.com>\
 This Portfolio: <https://portfolio.seulgi.zip>\
 AI Video Upscaling: <https://www.youtube.com/@smonster>\
+
+</div>
+
+<div class="image">
+<img src="photo_portfolio.png" width="120" height="150">
+</div>
+
+</div>
+
