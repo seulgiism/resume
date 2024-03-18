@@ -1,70 +1,68 @@
-<div class="container">
+### Contact
+**Seul-gi Baggelaar**
+**E-mail**: seulgi.baggelaar@protonmail.com
+**Mobile**: **+31620163924**
+[**LinkedIn**](https://www.linkedin.com/in/seul-gi-baggelaar-4b397a290/)
 
-<div class="content" markdown="1">
+### Skills
+**RHEL (8,9)**
+**Windows Troubleshooting**
+**Terraform**
+**Docker and Containerization**
+**Nginx Web Server Management**
+**AWS**
+**Shell Scripting**
+**SteamCMD**
+**Video, Image and Photo Editing**
 
-## Skills
-* RHEL (8,9)
-* Windows Troubleshooting
-* TerraForm
-* Docker and Containerization
-* Nginx Web Server Management
-* AWS
-* Shell Scripting
-* (Game) Server Hosting
-* Video, Image and Photo Editing
+### Experience
+**Game Server Admin @ i3d.net** - 2008 - 2012
+  In-game administration for managing unwanted player behavior.
 
-## Currently Learning
-* Preparing for RHCSA Exam (EX2000)
-* Azure
-* Ansible
-* Python
+**Personal Source Server System Admin**
+  Oversee the administration of source dedicated servers, ensuring stability and security.
+  Implement and maintain server configurations for optimal gameplay.
 
-## Languages
-* Dutch - native
-* English - professional proficiency level
-* Korean - fluent 
-* Japanese - learning
-* French - learning
+**In-house Fashion Model**
+  Freelance for in-house (indie) fashion-brands in NYC.
+  Collaborated with photographers and designers to create captivating and decadent visuals.
 
-## Experience
-* Game Server Admin @ i3d.net
-* Source Server System Admin
-* In-house High Fashion Model
+### Currently Learning
+**Preparing for RHCSA Exam (EX2000)** -
+  Expected Completion: November 2024
 
-## Courses
-* Complete Terraform Course - Beginner to Advanced
+**Ansible**
 
-## Work Ethic
-I want to connect with mentors, peers and professionals who share my passion on a journey of growth and development in DevOps.\
-\
-My professional experience may be limited, my endless enthusiasm, flexibility, and passion for DevOps & System Administration keep me motivated to moving forward.\
-\
-Throughout my journey of studying DevOps by utilizing AWS, I've refined my problem-solving skills, established a strong foundation in TerraForm and Linux file systems; I'm eager to apply this knowledge to real-world challenges.\
-\
-I possess a growth mindset and thrive in collaborative environments. I value the opportunity to learn from mentors and other professionals.\
-With my ability to quickly learn new information, coupled with my dedication to excellence and problem solving, makes me an ideal candidate for entry-level roles in System Administration.\
+**Python**
 
-## Hobbies
-* (Game) Server Hosting
-* Game Modding
-* Language Learning
-* Reading Fiction
-* Writing a Cookbook
-* Nutrition Science
+### Courses
+**Complete Terraform Course - Beginner to Advanced** - 2024
 
-## Contact
-Seul-gi Baggelaar\
-E-mail: seulgi.baggelaar@protonmail.com\
-Mobile: +31620163924\
-[Linkedin](https://www.linkedin.com/in/seul-gi-baggelaar-4b397a290/)\
+### Projects
+**My Website**: [seulgi](https://seulgi.zip)
+**JellyFin**: [jellyfin](https://seulgi.zip/jellyfin)
+**FreshRSS**: [rss](https://koreanmind.com)
+**This Resume**: [resume](https://resume.seulgi.zip)
+**AI Video Upscaling**: [youtube](https://www.youtube.com/@smonster)
 
-## Projects
+### Work Ethic
+I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **DevOps**.
+  
+Despite my limited professional experience, my **endless enthusiasm**, **flexibility**, and **passion** for **DevOps** & **System Administration** drive me forward.
+  
+Throughout my journey of studying **DevOps** using **AWS**, I’ve honed my **problem-solving** skills, established a strong foundation in **Terraform**, and gained expertise in **Linux file systems**. I am eager to apply this knowledge to real-world challenges.
 
-My Website: <https://seulgi.zip>\
-JellyFin: <https://seulgi.zip/jellyfin>\
-FreshRSS: <https://koreanmind.com>\
-This Resume: <https://resume.seulgi.zip>\
-AI Video Upscaling: <https://www.youtube.com/@smonster>\
+I possess a **growth mindset** and thrive in **collaborative environments**. I highly value the opportunity to **learn from mentors and other professionals**.
+
+With my ability to **quickly learn new information**, coupled with my dedication to **excellence** and **problem-solving**, I am well-suited for **entry-level roles in System Administration**.
+
+### Hobbies
+**Dedicated (Game) Server Hosting**
+**Game Modding**
+**Language Learning**
+**Reading Fiction**
+**Blog About Nutrition**
+**Nutrition Science**
 
 </div>
 
@@ -73,4 +71,3 @@ AI Video Upscaling: <https://www.youtube.com/@smonster>\
 </div>
 
 </div>
-
