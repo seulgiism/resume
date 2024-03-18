@@ -74,10 +74,8 @@ blockquote {
 }
 
 .image {
-    flex: 1;
+    flex: 2;
     padding-left: 0px;
-    height: 50%;
-    width: 50%;
 
 }
 
