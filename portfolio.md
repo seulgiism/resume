@@ -20,33 +20,29 @@
 
 ### Experience
 **Game Server Admin @ i3d.net**\
-- In-game administration for managing unwanted player behavior.\
-##### 2008 - 2012
+- In-game administration for managing unwanted player behavior. (2008 - 2012)\
 
 
 
-**Personal Source DedicatedServer System Admin**
+**Personal Source DedicatedServer System Admin** (2012 - 2018)
 - Oversee the administration of source dedicated servers, ensuring stability and security.\
 - Implement and maintain server configurations for optimal gameplay.\
-#### 2012 - 2018
 \
-
+\
 **In-house Fashion Model**
-- Freelance for in-house (indie) fashion-brands in NYC.\
+- Freelance for in-house (indie) fashion-brands in NYC. (2009 - 2020)\
 - Collaborated with photographers and designers to create captivating and decadent visuals.\
-#### 2009 - 2020
+\
 \
 ### Currently Learning
-**Preparing for RHCSA Exam (EX2000)**
-#### Expected Completion: November 2024
+**Preparing for RHCSA Exam (EX2000)** (Expected Completion: November 2024)\
 \
 **Ansible**\
 \
 **Python**\
 \
 ### Courses
-**Complete Terraform Course - Beginner to Advanced** 
-#### 2024
+**Complete Terraform Course - Beginner to Advanced** (2024)
 \
 ### My Projects
 **My Website**: [Seulgi](https://seulgi.zip)\
@@ -54,6 +50,7 @@
 **FreshRSS**: [Rss](https://koreanmind.com)\
 **This Resume**: [Resume](https://resume.seulgi.zip)\
 **AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)\
+\
 \
 ### Work Ethic
 I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **DevOps**.\
