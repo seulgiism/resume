@@ -21,14 +21,16 @@
 ### Experience
 **Game Server Admin @ i3d.net**\
 - In-game administration for managing unwanted player behavior.\
-#### 2008 - 2012
-\
+##### 2008 - 2012
+
+
+
 **Personal Source DedicatedServer System Admin**
 - Oversee the administration of source dedicated servers, ensuring stability and security.\
 - Implement and maintain server configurations for optimal gameplay.\
 #### 2012 - 2018
 \
-\
+
 **In-house Fashion Model**
 - Freelance for in-house (indie) fashion-brands in NYC.\
 - Collaborated with photographers and designers to create captivating and decadent visuals.\
