@@ -19,24 +19,24 @@
 **Video, Image and Photo Editing**\
 
 ### Experience
-**Game Server Admin @ i3d.net**
+**Game Server Admin @ i3d.net**\
 - In-game administration for managing unwanted player behavior.\
-##### 2008 - 2012
+#### 2008 - 2012
 \
 **Personal Source DedicatedServer System Admin**
 - Oversee the administration of source dedicated servers, ensuring stability and security.\
 - Implement and maintain server configurations for optimal gameplay.\
-##### 2012 - 2018
+#### 2012 - 2018
 \
 \
 **In-house Fashion Model**
 - Freelance for in-house (indie) fashion-brands in NYC.\
 - Collaborated with photographers and designers to create captivating and decadent visuals.\
-##### 2009 - 2020
+#### 2009 - 2020
 \
 ### Currently Learning
 **Preparing for RHCSA Exam (EX2000)**
-##### Expected Completion: November 2024
+#### Expected Completion: November 2024
 \
 **Ansible**\
 \
@@ -44,7 +44,7 @@
 \
 ### Courses
 **Complete Terraform Course - Beginner to Advanced** 
-##### 2024
+#### 2024
 \
 ### My Projects
 **My Website**: [Seulgi](https://seulgi.zip)\
