@@ -19,40 +19,45 @@
 **Video, Image and Photo Editing**\
 
 ### Experience
-**Game Server Admin @ i3d.net** - 2008 - 2012\
-  In-game administration for managing unwanted player behavior.\
+**Game Server Admin @ i3d.net**
+- In-game administration for managing unwanted player behavior.\
+##### 2008 - 2012
 \
-**Personal Source Server System Admin**\
-  Oversee the administration of source dedicated servers, ensuring stability and security.\
-  Implement and maintain server configurations for optimal gameplay.\
+**Personal Source DedicatedServer System Admin**
+- Oversee the administration of source dedicated servers, ensuring stability and security.\
+- Implement and maintain server configurations for optimal gameplay.\
+##### 2012 - 2018
 \
-**In-house Fashion Model**\
-  Freelance for in-house (indie) fashion-brands in NYC.\
-  Collaborated with photographers and designers to create captivating and decadent visuals.\
 \
-### Currently Learning\
-**Preparing for RHCSA Exam (EX2000)** -\
-  Expected Completion: November 2024\
+**In-house Fashion Model**
+- Freelance for in-house (indie) fashion-brands in NYC.\
+- Collaborated with photographers and designers to create captivating and decadent visuals.\
+##### 2009 - 2020
+\
+### Currently Learning
+**Preparing for RHCSA Exam (EX2000)**
+##### Expected Completion: November 2024
 \
 **Ansible**\
 \
 **Python**\
 \
-### Courses\
-**Complete Terraform Course - Beginner to Advanced** - 2024\
+### Courses
+**Complete Terraform Course - Beginner to Advanced** 
+##### 2024
 \
-### Projects
-**My Website**: [seulgi](https://seulgi.zip)\
-**JellyFin**: [jellyfin](https://seulgi.zip/jellyfin)\
-**FreshRSS**: [rss](https://koreanmind.com)\
-**This Resume**: [resume](https://resume.seulgi.zip)\
-**AI Video Upscaling**: [youtube](https://www.youtube.com/@smonster)\
+### My Projects
+**My Website**: [Seulgi](https://seulgi.zip)\
+**JellyFin**: [JellyFin](https://seulgi.zip/jellyfin)\
+**FreshRSS**: [Rss](https://koreanmind.com)\
+**This Resume**: [Resume](https://resume.seulgi.zip)\
+**AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)\
 \
-### Work Ethic\
+### Work Ethic
 I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **DevOps**.\
-  \
+\
 Despite my limited professional experience, my **endless enthusiasm**, **flexibility**, and **passion** for **DevOps** & **System Administration** drive me forward.\
-  \
+\
 Throughout my journey of studying **DevOps** using **AWS**, I’ve honed my **problem-solving** skills, established a strong foundation in **Terraform**, and gained expertise in **Linux file systems**. I am eager to apply this knowledge to real-world challenges.\
 \
 I possess a **growth mindset** and thrive in **collaborative environments**. I highly value the opportunity to **learn from mentors and other professionals**.\
@@ -67,6 +72,7 @@ With my ability to **quickly learn new information**, coupled with my dedication
 **Blog About Nutrition**\
 **Nutrition Science**\
 \
+
 </div>
 
 <div class="image">
