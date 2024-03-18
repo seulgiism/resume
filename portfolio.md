@@ -27,31 +27,31 @@
 **Personal Source DedicatedServer System Admin** (2012 - 2018)
 - Oversee the administration of source dedicated servers, ensuring stability and security.\
 - Implement and maintain server configurations for optimal gameplay.\
-\
-\
+
+
 **In-house Fashion Model**
 - Freelance for in-house (indie) fashion-brands in NYC. (2009 - 2020)\
 - Collaborated with photographers and designers to create captivating and decadent visuals.\
-\
-\
+
+
 ### Currently Learning
 **Preparing for RHCSA Exam (EX2000)** (Expected Completion: November 2024)\
-\
+
 **Ansible**\
-\
+
 **Python**\
-\
+
 ### Courses
 **Complete Terraform Course - Beginner to Advanced** (2024)
-\
+
 ### My Projects
 **My Website**: [Seulgi](https://seulgi.zip)\
 **JellyFin**: [JellyFin](https://seulgi.zip/jellyfin)\
 **FreshRSS**: [Rss](https://koreanmind.com)\
 **This Resume**: [Resume](https://resume.seulgi.zip)\
 **AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)\
-\
-\
+
+
 ### Work Ethic
 I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **DevOps**.\
 \
@@ -62,7 +62,8 @@ Throughout my journey of studying **DevOps** using **AWS**, I’ve honed my **pr
 I possess a **growth mindset** and thrive in **collaborative environments**. I highly value the opportunity to **learn from mentors and other professionals**.\
 \
 With my ability to **quickly learn new information**, coupled with my dedication to **excellence** and **problem-solving**, I am well-suited for **entry-level roles in System Administration**.\
-\
+
+
 ### Hobbies
 **Dedicated (Game) Server Hosting**\
 **Game Modding**\
@@ -70,7 +71,7 @@ With my ability to **quickly learn new information**, coupled with my dedication
 **Reading Fiction**\
 **Blog About Nutrition**\
 **Nutrition Science**\
-\
+
 
 </div>
 
