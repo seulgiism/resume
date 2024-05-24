@@ -29,11 +29,6 @@
 - Implement and maintain server configurations for optimal gameplay.\
 
 
-**In-house Fashion Model**
-- Freelance for in-house (indie) fashion-brands in NYC. (2009 - 2020)\
-- Collaborated with photographers and designers to create captivating and decadent visuals.\
-
-
 ### Currently Learning
 
 **Ansible**\
