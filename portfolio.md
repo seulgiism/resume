@@ -53,11 +53,11 @@
 
 
 ### Work Ethic
-I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **DevOps**.\
+I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **System Administration.**.\
 \
-Despite my limited professional experience, my **endless enthusiasm**, **flexibility**, and **passion** for **DevOps** & **System Administration** drive me forward.\
+Despite my limited professional experience, my **endless enthusiasm**, **flexibility**, and **passion** for **System Administration** & **System Administration** drive me forward.\
 \
-Throughout my journey of studying **DevOps** using **AWS**, I’ve honed my **problem-solving** skills, established a strong foundation in **Terraform**, and gained expertise in **Linux file systems**. I am eager to apply this knowledge to real-world challenges.\
+Throughout my journey of studying **System Administration** using **AWS & Hetzner Cloud**, I’ve honed my **problem-solving** skills, established a strong foundation in **Linux Enterprise**, and gained expertise in server management. I am eager to apply this knowledge to real-world challenges.\
 \
 I possess a **growth mindset** and thrive in **collaborative environments**. I highly value the opportunity to **learn from mentors and other professionals**.\
 \
