@@ -35,7 +35,6 @@
 
 
 ### Currently Learning
-**Preparing for RHCSA Exam (EX2000)** (Expected Completion: November 2024)\
 
 **Ansible**\
 
