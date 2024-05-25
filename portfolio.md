@@ -33,7 +33,6 @@
 
 **Ansible**\
 
-**Python**\
 
 ### Courses
 **Complete Terraform Course - Beginner to Advanced** (2024)
