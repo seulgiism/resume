@@ -19,7 +19,11 @@
 **Video, Image, and Photo Editing**
 
 ### Experience
-**Game Server Admin @ i3d.net**\
+
+**Cinematic Editor and Colorist** (2009 - 2012)\
+- Utilized software such as Cinema 4D, Adobe Premiere, Vegas, and After Effects for various projects.
+
+**Game Server Admin @ i3d.net** (2008 - 2012)\
 - Managed in-game administration to handle unwanted player behavior. (2008 - 2012)
 
 **Personal Source Dedicated Server System Admin** (2012 - 2018)\
@@ -42,7 +46,8 @@
 **JellyFin**: [JellyFin](https://seulgi.zip/jellyfin)\
 **FreshRSS**: [Rss](https://koreanmind.com)\
 **This Resume**: [Resume](https://resume.seulgi.zip)\
-**AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)
+**AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)\
+**Video Editing**: [YouTube](https://www.youtube.com/@privacyyyyy)\
 
 ### Work Ethic
 I want to connect with **mentors, peers, and professionals** who share my passion for growth and development in **System Administration**.\
@@ -58,10 +63,10 @@ With my ability to **quickly learn new information**, coupled with my dedication
 ### Hobbies
 **Dedicated (Game) Server Hosting**\
 **Game Modding**\
+**Nutrition Science**\
 **Language Learning**\
 **Reading Fiction**\
 **Blogging About Nutrition**\
-**Nutrition Science**
 
 </div>
 
