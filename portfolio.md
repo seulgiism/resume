@@ -43,7 +43,7 @@
 
 ### My Projects
 **My Website**: [Seulgi](https://seulgi.zip)\
-**JellyFin**: [JellyFin](https://seulgi.zip/jellyfin)\
+**Search Engine**: [SearX](https://seulgi.zip/searx)\
 **FreshRSS**: [Rss](https://koreanmind.com)\
 **This Resume**: [Resume](https://resume.seulgi.zip)\
 **AI Video Upscaling**: [YouTube](https://www.youtube.com/@smonster)\
