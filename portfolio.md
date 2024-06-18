@@ -20,11 +20,12 @@
 
 ### Experience
 
-**Cinematic Editor and Colorist** (2009 - 2012)\
-- Utilized software such as Cinema 4D, Adobe Premiere, Vegas, and After Effects for various projects.
 
 **Game Server Admin @ i3d.net** (2008 - 2012)\
 - Managed in-game administration to handle unwanted player behavior. (2008 - 2012)
+
+**Cinematic Editor and Colorist** (2009 - 2012)\
+- Utilized software such as Cinema 4D, Adobe Premiere, Vegas, and After Effects for various projects.
 
 **Personal Source Dedicated Server System Admin** (2012 - 2018)\
 - Oversaw the administration of source dedicated servers, ensuring stability and security.\
